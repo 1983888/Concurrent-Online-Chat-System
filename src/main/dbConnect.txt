@@ -1,0 +1,4 @@
+jdbc:mysql://localhost:3306/
+clb21143
+clb21143
+choh5ooRaigo
